@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-	// Please complete my code :-*
+	// Please complete my code 
 }
